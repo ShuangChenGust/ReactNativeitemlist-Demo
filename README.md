@@ -9,4 +9,5 @@ Preview:
 <br>
 With Flex Box:
 <br>
-![image](https://github.com/ShuangChenGust/ReactNativeitemlist-Demo/blob/master/assets/image.png)
+
+![image](https://github.com/ShuangChenGust/ReactNativeitemlist-Demo/blob/master/assets/WX20200618-205550.png)
